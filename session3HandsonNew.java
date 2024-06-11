@@ -1,6 +1,6 @@
 public class session3HandsonNew {
         public static void main(String[] args) {
-            String information=String.format("name : %s  age : %d" , "Soheila ," , 40);
+            String information=String.format("Name : %s  age : %d" , "Soheila ," , 40);
             System.out.println(information);
             String information1=information.toUpperCase();
             System.out.println("toUpperCase : " +information1);
